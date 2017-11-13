@@ -223,8 +223,7 @@
 				5BE44F9E1FB873C900B09E8E /* Hearts_47.jpg */,
 				5BE44F851FB873C700B09E8E /* Landscape.jpg */,
 			);
-			name = "Source Images";
-			path = "New Group";
+			path = "Source Images";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
