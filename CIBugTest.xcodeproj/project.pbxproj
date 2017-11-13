@@ -13,6 +13,55 @@
 		5BE44F0B1FB8697D00B09E8E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F0A1FB8697D00B09E8E /* Assets.xcassets */; };
 		5BE44F0E1FB8697D00B09E8E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F0C1FB8697D00B09E8E /* LaunchScreen.storyboard */; };
 		5BE44F111FB8697D00B09E8E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5BE44F101FB8697D00B09E8E /* main.m */; };
+		5BE44FAF1FB873CB00B09E8E /* Hearts_11.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F7E1FB873C700B09E8E /* Hearts_11.jpg */; };
+		5BE44FB01FB873CB00B09E8E /* Hearts_00.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F7F1FB873C700B09E8E /* Hearts_00.jpg */; };
+		5BE44FB11FB873CB00B09E8E /* Hearts_29.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F801FB873C700B09E8E /* Hearts_29.jpg */; };
+		5BE44FB21FB873CB00B09E8E /* Hearts_20.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F811FB873C700B09E8E /* Hearts_20.jpg */; };
+		5BE44FB31FB873CB00B09E8E /* Hearts_25.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F821FB873C700B09E8E /* Hearts_25.jpg */; };
+		5BE44FB41FB873CB00B09E8E /* Hearts_33.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F831FB873C700B09E8E /* Hearts_33.jpg */; };
+		5BE44FB51FB873CB00B09E8E /* Hearts_35.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F841FB873C700B09E8E /* Hearts_35.jpg */; };
+		5BE44FB61FB873CB00B09E8E /* Landscape.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F851FB873C700B09E8E /* Landscape.jpg */; };
+		5BE44FB71FB873CB00B09E8E /* Hearts_28.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F861FB873C700B09E8E /* Hearts_28.jpg */; };
+		5BE44FB81FB873CB00B09E8E /* Hearts_02.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F871FB873C700B09E8E /* Hearts_02.jpg */; };
+		5BE44FB91FB873CB00B09E8E /* Hearts_22.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F881FB873C800B09E8E /* Hearts_22.jpg */; };
+		5BE44FBA1FB873CB00B09E8E /* Hearts_12.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F891FB873C800B09E8E /* Hearts_12.jpg */; };
+		5BE44FBB1FB873CB00B09E8E /* Hearts_30.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F8A1FB873C800B09E8E /* Hearts_30.jpg */; };
+		5BE44FBC1FB873CB00B09E8E /* Hearts_36.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F8B1FB873C800B09E8E /* Hearts_36.jpg */; };
+		5BE44FBD1FB873CB00B09E8E /* Hearts_13.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F8C1FB873C800B09E8E /* Hearts_13.jpg */; };
+		5BE44FBE1FB873CB00B09E8E /* Hearts_21.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F8D1FB873C800B09E8E /* Hearts_21.jpg */; };
+		5BE44FBF1FB873CB00B09E8E /* Hearts_26.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F8E1FB873C800B09E8E /* Hearts_26.jpg */; };
+		5BE44FC01FB873CB00B09E8E /* Hearts_10.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F8F1FB873C800B09E8E /* Hearts_10.jpg */; };
+		5BE44FC11FB873CB00B09E8E /* Hearts_14.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F901FB873C800B09E8E /* Hearts_14.jpg */; };
+		5BE44FC21FB873CB00B09E8E /* Hearts_45.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F911FB873C800B09E8E /* Hearts_45.jpg */; };
+		5BE44FC31FB873CB00B09E8E /* Hearts_46.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F921FB873C800B09E8E /* Hearts_46.jpg */; };
+		5BE44FC41FB873CB00B09E8E /* Hearts_42.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F931FB873C800B09E8E /* Hearts_42.jpg */; };
+		5BE44FC51FB873CB00B09E8E /* Hearts_09.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F941FB873C800B09E8E /* Hearts_09.jpg */; };
+		5BE44FC61FB873CB00B09E8E /* Hearts_24.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F951FB873C800B09E8E /* Hearts_24.jpg */; };
+		5BE44FC71FB873CB00B09E8E /* Hearts_05.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F961FB873C800B09E8E /* Hearts_05.jpg */; };
+		5BE44FC81FB873CB00B09E8E /* Hearts_34.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F971FB873C900B09E8E /* Hearts_34.jpg */; };
+		5BE44FC91FB873CB00B09E8E /* Hearts_17.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F981FB873C900B09E8E /* Hearts_17.jpg */; };
+		5BE44FCA1FB873CB00B09E8E /* Hearts_27.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F991FB873C900B09E8E /* Hearts_27.jpg */; };
+		5BE44FCB1FB873CB00B09E8E /* Hearts_06.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F9A1FB873C900B09E8E /* Hearts_06.jpg */; };
+		5BE44FCC1FB873CB00B09E8E /* Hearts_44.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F9B1FB873C900B09E8E /* Hearts_44.jpg */; };
+		5BE44FCD1FB873CB00B09E8E /* Hearts_18.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F9C1FB873C900B09E8E /* Hearts_18.jpg */; };
+		5BE44FCE1FB873CB00B09E8E /* Hearts_15.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F9D1FB873C900B09E8E /* Hearts_15.jpg */; };
+		5BE44FCF1FB873CB00B09E8E /* Hearts_47.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F9E1FB873C900B09E8E /* Hearts_47.jpg */; };
+		5BE44FD01FB873CB00B09E8E /* Hearts_16.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44F9F1FB873C900B09E8E /* Hearts_16.jpg */; };
+		5BE44FD11FB873CB00B09E8E /* Hearts_37.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FA01FB873C900B09E8E /* Hearts_37.jpg */; };
+		5BE44FD21FB873CB00B09E8E /* Hearts_40.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FA11FB873C900B09E8E /* Hearts_40.jpg */; };
+		5BE44FD31FB873CB00B09E8E /* Hearts_31.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FA21FB873CA00B09E8E /* Hearts_31.jpg */; };
+		5BE44FD41FB873CB00B09E8E /* Hearts_08.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FA31FB873CA00B09E8E /* Hearts_08.jpg */; };
+		5BE44FD51FB873CB00B09E8E /* Hearts_38.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FA41FB873CA00B09E8E /* Hearts_38.jpg */; };
+		5BE44FD61FB873CB00B09E8E /* Hearts_04.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FA51FB873CA00B09E8E /* Hearts_04.jpg */; };
+		5BE44FD71FB873CB00B09E8E /* Hearts_01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FA61FB873CA00B09E8E /* Hearts_01.jpg */; };
+		5BE44FD81FB873CB00B09E8E /* Hearts_23.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FA71FB873CA00B09E8E /* Hearts_23.jpg */; };
+		5BE44FD91FB873CB00B09E8E /* Hearts_07.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FA81FB873CA00B09E8E /* Hearts_07.jpg */; };
+		5BE44FDA1FB873CB00B09E8E /* Hearts_32.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FA91FB873CA00B09E8E /* Hearts_32.jpg */; };
+		5BE44FDB1FB873CB00B09E8E /* Hearts_43.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FAA1FB873CB00B09E8E /* Hearts_43.jpg */; };
+		5BE44FDC1FB873CB00B09E8E /* Hearts_03.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FAB1FB873CB00B09E8E /* Hearts_03.jpg */; };
+		5BE44FDD1FB873CB00B09E8E /* Hearts_19.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FAC1FB873CB00B09E8E /* Hearts_19.jpg */; };
+		5BE44FDE1FB873CB00B09E8E /* Hearts_41.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FAD1FB873CB00B09E8E /* Hearts_41.jpg */; };
+		5BE44FDF1FB873CB00B09E8E /* Hearts_39.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5BE44FAE1FB873CB00B09E8E /* Hearts_39.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +75,55 @@
 		5BE44F0D1FB8697D00B09E8E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5BE44F0F1FB8697D00B09E8E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5BE44F101FB8697D00B09E8E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5BE44F7E1FB873C700B09E8E /* Hearts_11.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_11.jpg; path = "CIBugTest/Source Images/Hearts_11.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F7F1FB873C700B09E8E /* Hearts_00.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_00.jpg; path = "CIBugTest/Source Images/Hearts_00.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F801FB873C700B09E8E /* Hearts_29.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_29.jpg; path = "CIBugTest/Source Images/Hearts_29.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F811FB873C700B09E8E /* Hearts_20.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_20.jpg; path = "CIBugTest/Source Images/Hearts_20.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F821FB873C700B09E8E /* Hearts_25.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_25.jpg; path = "CIBugTest/Source Images/Hearts_25.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F831FB873C700B09E8E /* Hearts_33.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_33.jpg; path = "CIBugTest/Source Images/Hearts_33.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F841FB873C700B09E8E /* Hearts_35.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_35.jpg; path = "CIBugTest/Source Images/Hearts_35.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F851FB873C700B09E8E /* Landscape.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Landscape.jpg; path = "CIBugTest/Source Images/Landscape.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F861FB873C700B09E8E /* Hearts_28.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_28.jpg; path = "CIBugTest/Source Images/Hearts_28.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F871FB873C700B09E8E /* Hearts_02.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_02.jpg; path = "CIBugTest/Source Images/Hearts_02.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F881FB873C800B09E8E /* Hearts_22.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_22.jpg; path = "CIBugTest/Source Images/Hearts_22.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F891FB873C800B09E8E /* Hearts_12.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_12.jpg; path = "CIBugTest/Source Images/Hearts_12.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F8A1FB873C800B09E8E /* Hearts_30.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_30.jpg; path = "CIBugTest/Source Images/Hearts_30.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F8B1FB873C800B09E8E /* Hearts_36.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_36.jpg; path = "CIBugTest/Source Images/Hearts_36.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F8C1FB873C800B09E8E /* Hearts_13.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_13.jpg; path = "CIBugTest/Source Images/Hearts_13.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F8D1FB873C800B09E8E /* Hearts_21.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_21.jpg; path = "CIBugTest/Source Images/Hearts_21.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F8E1FB873C800B09E8E /* Hearts_26.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_26.jpg; path = "CIBugTest/Source Images/Hearts_26.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F8F1FB873C800B09E8E /* Hearts_10.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_10.jpg; path = "CIBugTest/Source Images/Hearts_10.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F901FB873C800B09E8E /* Hearts_14.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_14.jpg; path = "CIBugTest/Source Images/Hearts_14.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F911FB873C800B09E8E /* Hearts_45.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_45.jpg; path = "CIBugTest/Source Images/Hearts_45.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F921FB873C800B09E8E /* Hearts_46.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_46.jpg; path = "CIBugTest/Source Images/Hearts_46.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F931FB873C800B09E8E /* Hearts_42.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_42.jpg; path = "CIBugTest/Source Images/Hearts_42.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F941FB873C800B09E8E /* Hearts_09.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_09.jpg; path = "CIBugTest/Source Images/Hearts_09.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F951FB873C800B09E8E /* Hearts_24.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_24.jpg; path = "CIBugTest/Source Images/Hearts_24.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F961FB873C800B09E8E /* Hearts_05.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_05.jpg; path = "CIBugTest/Source Images/Hearts_05.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F971FB873C900B09E8E /* Hearts_34.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_34.jpg; path = "CIBugTest/Source Images/Hearts_34.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F981FB873C900B09E8E /* Hearts_17.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_17.jpg; path = "CIBugTest/Source Images/Hearts_17.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F991FB873C900B09E8E /* Hearts_27.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_27.jpg; path = "CIBugTest/Source Images/Hearts_27.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F9A1FB873C900B09E8E /* Hearts_06.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_06.jpg; path = "CIBugTest/Source Images/Hearts_06.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F9B1FB873C900B09E8E /* Hearts_44.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_44.jpg; path = "CIBugTest/Source Images/Hearts_44.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F9C1FB873C900B09E8E /* Hearts_18.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_18.jpg; path = "CIBugTest/Source Images/Hearts_18.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F9D1FB873C900B09E8E /* Hearts_15.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_15.jpg; path = "CIBugTest/Source Images/Hearts_15.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F9E1FB873C900B09E8E /* Hearts_47.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_47.jpg; path = "CIBugTest/Source Images/Hearts_47.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44F9F1FB873C900B09E8E /* Hearts_16.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_16.jpg; path = "CIBugTest/Source Images/Hearts_16.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FA01FB873C900B09E8E /* Hearts_37.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_37.jpg; path = "CIBugTest/Source Images/Hearts_37.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FA11FB873C900B09E8E /* Hearts_40.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_40.jpg; path = "CIBugTest/Source Images/Hearts_40.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FA21FB873CA00B09E8E /* Hearts_31.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_31.jpg; path = "CIBugTest/Source Images/Hearts_31.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FA31FB873CA00B09E8E /* Hearts_08.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_08.jpg; path = "CIBugTest/Source Images/Hearts_08.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FA41FB873CA00B09E8E /* Hearts_38.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_38.jpg; path = "CIBugTest/Source Images/Hearts_38.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FA51FB873CA00B09E8E /* Hearts_04.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_04.jpg; path = "CIBugTest/Source Images/Hearts_04.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FA61FB873CA00B09E8E /* Hearts_01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_01.jpg; path = "CIBugTest/Source Images/Hearts_01.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FA71FB873CA00B09E8E /* Hearts_23.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_23.jpg; path = "CIBugTest/Source Images/Hearts_23.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FA81FB873CA00B09E8E /* Hearts_07.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_07.jpg; path = "CIBugTest/Source Images/Hearts_07.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FA91FB873CA00B09E8E /* Hearts_32.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_32.jpg; path = "CIBugTest/Source Images/Hearts_32.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FAA1FB873CB00B09E8E /* Hearts_43.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_43.jpg; path = "CIBugTest/Source Images/Hearts_43.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FAB1FB873CB00B09E8E /* Hearts_03.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_03.jpg; path = "CIBugTest/Source Images/Hearts_03.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FAC1FB873CB00B09E8E /* Hearts_19.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_19.jpg; path = "CIBugTest/Source Images/Hearts_19.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FAD1FB873CB00B09E8E /* Hearts_41.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_41.jpg; path = "CIBugTest/Source Images/Hearts_41.jpg"; sourceTree = SOURCE_ROOT; };
+		5BE44FAE1FB873CB00B09E8E /* Hearts_39.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Hearts_39.jpg; path = "CIBugTest/Source Images/Hearts_39.jpg"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +156,7 @@
 		5BE44F001FB8697D00B09E8E /* CIBugTest */ = {
 			isa = PBXGroup;
 			children = (
+				5BE44F7D1FB8738900B09E8E /* Source Images */,
 				5BE44F011FB8697D00B09E8E /* AppDelegate.h */,
 				5BE44F021FB8697D00B09E8E /* AppDelegate.m */,
 				5BE44F041FB8697D00B09E8E /* ViewController.h */,
@@ -69,6 +168,63 @@
 				5BE44F101FB8697D00B09E8E /* main.m */,
 			);
 			path = CIBugTest;
+			sourceTree = "<group>";
+		};
+		5BE44F7D1FB8738900B09E8E /* Source Images */ = {
+			isa = PBXGroup;
+			children = (
+				5BE44F7F1FB873C700B09E8E /* Hearts_00.jpg */,
+				5BE44FA61FB873CA00B09E8E /* Hearts_01.jpg */,
+				5BE44F871FB873C700B09E8E /* Hearts_02.jpg */,
+				5BE44FAB1FB873CB00B09E8E /* Hearts_03.jpg */,
+				5BE44FA51FB873CA00B09E8E /* Hearts_04.jpg */,
+				5BE44F961FB873C800B09E8E /* Hearts_05.jpg */,
+				5BE44F9A1FB873C900B09E8E /* Hearts_06.jpg */,
+				5BE44FA81FB873CA00B09E8E /* Hearts_07.jpg */,
+				5BE44FA31FB873CA00B09E8E /* Hearts_08.jpg */,
+				5BE44F941FB873C800B09E8E /* Hearts_09.jpg */,
+				5BE44F8F1FB873C800B09E8E /* Hearts_10.jpg */,
+				5BE44F7E1FB873C700B09E8E /* Hearts_11.jpg */,
+				5BE44F891FB873C800B09E8E /* Hearts_12.jpg */,
+				5BE44F8C1FB873C800B09E8E /* Hearts_13.jpg */,
+				5BE44F901FB873C800B09E8E /* Hearts_14.jpg */,
+				5BE44F9D1FB873C900B09E8E /* Hearts_15.jpg */,
+				5BE44F9F1FB873C900B09E8E /* Hearts_16.jpg */,
+				5BE44F981FB873C900B09E8E /* Hearts_17.jpg */,
+				5BE44F9C1FB873C900B09E8E /* Hearts_18.jpg */,
+				5BE44FAC1FB873CB00B09E8E /* Hearts_19.jpg */,
+				5BE44F811FB873C700B09E8E /* Hearts_20.jpg */,
+				5BE44F8D1FB873C800B09E8E /* Hearts_21.jpg */,
+				5BE44F881FB873C800B09E8E /* Hearts_22.jpg */,
+				5BE44FA71FB873CA00B09E8E /* Hearts_23.jpg */,
+				5BE44F951FB873C800B09E8E /* Hearts_24.jpg */,
+				5BE44F821FB873C700B09E8E /* Hearts_25.jpg */,
+				5BE44F8E1FB873C800B09E8E /* Hearts_26.jpg */,
+				5BE44F991FB873C900B09E8E /* Hearts_27.jpg */,
+				5BE44F861FB873C700B09E8E /* Hearts_28.jpg */,
+				5BE44F801FB873C700B09E8E /* Hearts_29.jpg */,
+				5BE44F8A1FB873C800B09E8E /* Hearts_30.jpg */,
+				5BE44FA21FB873CA00B09E8E /* Hearts_31.jpg */,
+				5BE44FA91FB873CA00B09E8E /* Hearts_32.jpg */,
+				5BE44F831FB873C700B09E8E /* Hearts_33.jpg */,
+				5BE44F971FB873C900B09E8E /* Hearts_34.jpg */,
+				5BE44F841FB873C700B09E8E /* Hearts_35.jpg */,
+				5BE44F8B1FB873C800B09E8E /* Hearts_36.jpg */,
+				5BE44FA01FB873C900B09E8E /* Hearts_37.jpg */,
+				5BE44FA41FB873CA00B09E8E /* Hearts_38.jpg */,
+				5BE44FAE1FB873CB00B09E8E /* Hearts_39.jpg */,
+				5BE44FA11FB873C900B09E8E /* Hearts_40.jpg */,
+				5BE44FAD1FB873CB00B09E8E /* Hearts_41.jpg */,
+				5BE44F931FB873C800B09E8E /* Hearts_42.jpg */,
+				5BE44FAA1FB873CB00B09E8E /* Hearts_43.jpg */,
+				5BE44F9B1FB873C900B09E8E /* Hearts_44.jpg */,
+				5BE44F911FB873C800B09E8E /* Hearts_45.jpg */,
+				5BE44F921FB873C800B09E8E /* Hearts_46.jpg */,
+				5BE44F9E1FB873C900B09E8E /* Hearts_47.jpg */,
+				5BE44F851FB873C700B09E8E /* Landscape.jpg */,
+			);
+			name = "Source Images";
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -129,8 +285,57 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BE44FDA1FB873CB00B09E8E /* Hearts_32.jpg in Resources */,
+				5BE44FAF1FB873CB00B09E8E /* Hearts_11.jpg in Resources */,
+				5BE44FCD1FB873CB00B09E8E /* Hearts_18.jpg in Resources */,
+				5BE44FD01FB873CB00B09E8E /* Hearts_16.jpg in Resources */,
+				5BE44FB41FB873CB00B09E8E /* Hearts_33.jpg in Resources */,
+				5BE44FB31FB873CB00B09E8E /* Hearts_25.jpg in Resources */,
+				5BE44FB11FB873CB00B09E8E /* Hearts_29.jpg in Resources */,
+				5BE44FC61FB873CB00B09E8E /* Hearts_24.jpg in Resources */,
+				5BE44FDD1FB873CB00B09E8E /* Hearts_19.jpg in Resources */,
+				5BE44FD71FB873CB00B09E8E /* Hearts_01.jpg in Resources */,
+				5BE44FC31FB873CB00B09E8E /* Hearts_46.jpg in Resources */,
+				5BE44FB71FB873CB00B09E8E /* Hearts_28.jpg in Resources */,
+				5BE44FD81FB873CB00B09E8E /* Hearts_23.jpg in Resources */,
+				5BE44FBB1FB873CB00B09E8E /* Hearts_30.jpg in Resources */,
+				5BE44FDF1FB873CB00B09E8E /* Hearts_39.jpg in Resources */,
+				5BE44FCB1FB873CB00B09E8E /* Hearts_06.jpg in Resources */,
+				5BE44FB01FB873CB00B09E8E /* Hearts_00.jpg in Resources */,
+				5BE44FCC1FB873CB00B09E8E /* Hearts_44.jpg in Resources */,
+				5BE44FD21FB873CB00B09E8E /* Hearts_40.jpg in Resources */,
+				5BE44FD31FB873CB00B09E8E /* Hearts_31.jpg in Resources */,
+				5BE44FC81FB873CB00B09E8E /* Hearts_34.jpg in Resources */,
+				5BE44FD41FB873CB00B09E8E /* Hearts_08.jpg in Resources */,
+				5BE44FCF1FB873CB00B09E8E /* Hearts_47.jpg in Resources */,
+				5BE44FC21FB873CB00B09E8E /* Hearts_45.jpg in Resources */,
+				5BE44FD91FB873CB00B09E8E /* Hearts_07.jpg in Resources */,
+				5BE44FC01FB873CB00B09E8E /* Hearts_10.jpg in Resources */,
+				5BE44FC71FB873CB00B09E8E /* Hearts_05.jpg in Resources */,
+				5BE44FDB1FB873CB00B09E8E /* Hearts_43.jpg in Resources */,
+				5BE44FD61FB873CB00B09E8E /* Hearts_04.jpg in Resources */,
+				5BE44FDC1FB873CB00B09E8E /* Hearts_03.jpg in Resources */,
+				5BE44FCE1FB873CB00B09E8E /* Hearts_15.jpg in Resources */,
+				5BE44FBC1FB873CB00B09E8E /* Hearts_36.jpg in Resources */,
 				5BE44F0E1FB8697D00B09E8E /* LaunchScreen.storyboard in Resources */,
+				5BE44FBA1FB873CB00B09E8E /* Hearts_12.jpg in Resources */,
+				5BE44FBD1FB873CB00B09E8E /* Hearts_13.jpg in Resources */,
+				5BE44FB51FB873CB00B09E8E /* Hearts_35.jpg in Resources */,
 				5BE44F0B1FB8697D00B09E8E /* Assets.xcassets in Resources */,
+				5BE44FB61FB873CB00B09E8E /* Landscape.jpg in Resources */,
+				5BE44FD11FB873CB00B09E8E /* Hearts_37.jpg in Resources */,
+				5BE44FBF1FB873CB00B09E8E /* Hearts_26.jpg in Resources */,
+				5BE44FB91FB873CB00B09E8E /* Hearts_22.jpg in Resources */,
+				5BE44FDE1FB873CB00B09E8E /* Hearts_41.jpg in Resources */,
+				5BE44FC91FB873CB00B09E8E /* Hearts_17.jpg in Resources */,
+				5BE44FBE1FB873CB00B09E8E /* Hearts_21.jpg in Resources */,
+				5BE44FB81FB873CB00B09E8E /* Hearts_02.jpg in Resources */,
+				5BE44FC51FB873CB00B09E8E /* Hearts_09.jpg in Resources */,
+				5BE44FC11FB873CB00B09E8E /* Hearts_14.jpg in Resources */,
+				5BE44FD51FB873CB00B09E8E /* Hearts_38.jpg in Resources */,
+				5BE44FC41FB873CB00B09E8E /* Hearts_42.jpg in Resources */,
+				5BE44FB21FB873CB00B09E8E /* Hearts_20.jpg in Resources */,
+				5BE44FCA1FB873CB00B09E8E /* Hearts_27.jpg in Resources */,
 				5BE44F091FB8697D00B09E8E /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
